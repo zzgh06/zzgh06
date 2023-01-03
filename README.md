@@ -9,11 +9,13 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
 
 <h3 align="center">✨ Me ✨</h3>
+<a href="mailto:이메일 주소" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logonaver&logoColor=white" ></a>
 <a href="https://www.instagram.com/choi_autumn_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/choi_autumn_/"/></a></div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzgh06&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzgh06&langs_count=5)](https://github.com/zzgh06/github-readme-stats)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzgh06)](https://solved.ac/zzgh06)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zzgh06)](https://github.com/zzgh06/github-readme-stats)
