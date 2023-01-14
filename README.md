@@ -13,6 +13,7 @@
 <a href="https://www.instagram.com/choi_autumn_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/choi_autumn_/"/></a></div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzgh06)](https://github.com/zzgh06/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzgh06&langs_count=5)](https://github.com/zzgh06/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzgh06)](https://solved.ac/zzgh06)
