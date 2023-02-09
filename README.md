@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 
 <h3 align="center">✨ Me ✨</h3>
 <a href="mailto:이메일 주소" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logonaver&logoColor=white" ></a>
